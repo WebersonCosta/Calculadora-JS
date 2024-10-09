@@ -10,7 +10,7 @@ Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.c
 
 # Calculadora-JS
 
-## [Teste o projeto](https://www.google.com)
+## [Teste o projeto](https://webersoncosta.github.io/Calculadora-JS/)
 
 ### Método setLastNumberToDisplay();
 
